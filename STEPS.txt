@@ -1,0 +1,10 @@
+
+STEP 1 :  Install nodejs - https://nodejs.org/en/download/
+
+STEP 2 :  Run the "npm install" command in terminal in the same folder
+
+STEP 3 :  Create endpoint for BSC - https://www.quicknode.com/endpoints
+
+STEP 4 :  COMEPLETE the constants in the .env file
+
+STEP 5 :  run the script : "node listener.js"
